@@ -1,0 +1,5 @@
+# Robot Hello World - Python Dependencies
+# Install: pip3 install -r requirements.txt
+
+colorama>=0.4.6       # Cross-platform colored terminal text
+art>=6.1              # ASCII art text generation (used in welcome screen)
