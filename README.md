@@ -6,8 +6,8 @@ A simple Python robot simulation for beginners. Clone, install dependencies, and
 
 ```bash
 # Step 1: Clone the project
-git clone <your-repo-url>
-cd robot-hello-world
+git clone https://github.com/zty7915/CNtrain
+cd CNtrain
 
 # Step 2: Install dependencies
 pip3 install -r requirements.txt
